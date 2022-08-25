@@ -10,7 +10,19 @@ I believe in continuous learning and exploration. I like to create, build, and m
 
 I also like social gatherings, meeting new friends, running, reading, traveling, and finally, good tv time.
 
-Skills: AWS Web Services: MYSQL, PostgreSQL, Lambda, ECS, EKS, ECR, Dockers, Kubernetes
+Skills: 
+AWS Web Services Plus:
+
+* 1️⃣ MYSQL
+* 2️⃣ PostgreSQL
+* 3️⃣ Lambda
+* 4️⃣ ECS
+* 5️⃣ EKS
+* 6️⃣ S3
+* 7️⃣ VPC
+* 8️⃣ Python
+* 9️⃣ Dockers
+* 🔟 Kubernetes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoshicoBusinessCloud)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,10 +40,10 @@ README.md` (this file) appears on your GitHub profile.
 
 Feel free to reach out to me.
 
-Email: mosesnaworu@gmail.com
+* ☑️ Email: mosesnaworu@gmail.com
 
-www.linkedin.com/in/moses-naworu
+* ☑️ LinkedIn: www.linkedin.com/in/moses-naworu
 
-https://www.facebook.com/
+* ☑️ Facebook: https://www.facebook.com/
 
 
