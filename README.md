@@ -12,9 +12,6 @@ I also like social gatherings, meeting new friends, running, reading, traveling,
 
 Skills: AWS Web Services: MYSQL, PostgreSQL, Lambda, ECS, EKS, ECR, Dockers, Kubernetes
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Moses Naworu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Moses Naworu)  
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoshicoBusinessCloud)](https://github.com/anuraghazra/github-readme-stats)
 
 MoshicoBusinessCloud/MoshicoBusinessCloud** is a ✨ _special_ ✨ repository because its `
