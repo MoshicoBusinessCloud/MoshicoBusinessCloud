@@ -1,16 +1,21 @@
-### Hi there 👋
-
-You are welcome to my world. 
+### Hi there 👋, Moses Naworu
+#### Certified AWS Solutions Architect || DevOps Engineer
+![Certified AWS Solutions Architect || DevOps Engineer](C:\Users\brown\Downloads\AWS Solutions Architect  DevOps Engineer)
 
 I am Moses Naworu; I am a Certified Solutions Architect || DevOps Engineer
 
 I am Extremely passionate about what I do, and I love problem-solving || and team collaboration.
-
 I believe in continuous learning and exploration. I like to create, build, and make new things.
 
 I also like social gatherings, meeting new friends, running, reading, traveling, and finally, good tv time.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoshicoBusinessCloud)](https://github.com/anuraghazra/github-readme-stats)
+Skills: AWS Web Services: MYSQL, PostgreSQL, Lambda, ECS, EKS, ECR, Dockers, Kubernetes
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Moses Naworu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Moses Naworu)  
+
+
+
 
 MoshicoBusinessCloud/MoshicoBusinessCloud** is a ✨ _special_ ✨ repository because its `
 README.md` (this file) appears on your GitHub profile.
