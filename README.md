@@ -1,6 +1,6 @@
 ### Hi there 👋, Moses Naworu
 #### Certified AWS Solutions Architect || Cloud Engineer || DevOps Engineer
-![Certified AWS Solutions Architect || DevOps Engineer](https://github.com/MoshicoBusinessCloud/MoshicoBusinessCloud/blob/main/AWS%20Solutions%20Architect%20%20DevOps%20Engineer/1.png)
+![Certified AWS Solutions Architect || DevOps Engineer](https://github.com/MoshicoBusinessCloud/MoshicoBusinessCloud/blob/main/1.png)
 
 I am Moses Naworu; Certified Solutions Architect || Cloud Engineer || DevOps Engineer
 
