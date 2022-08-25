@@ -4,6 +4,7 @@
 I am Moses Naworu; I am a Certified Solutions Architect || DevOps Engineer
 
 I am Extremely passionate about what I do, and I love problem-solving || and team collaboration.
+
 I believe in continuous learning and exploration. I like to create, build, and make new things.
 
 I also like social gatherings, meeting new friends, running, reading, traveling, and finally, good tv time.
