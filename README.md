@@ -1,6 +1,6 @@
 ![Certified AWS Solutions Architect || DevOps Engineer](https://github.com/MoshicoBusinessCloud/MoshicoBusinessCloud/blob/main/1.png)
 
-### Hi there 👋, I'm Moses Naworu
+# Hi there 👋, I'm Moses Naworu
 
 I'm a Solutions Architect || Cloud Engineer || DevOps Engineer
 
@@ -10,7 +10,7 @@ I believe in continuous learning and exploration. I like to create, build, and m
 
 I also like social gatherings, meeting new friends, running, reading, traveling, and finally, good tv time.
 
-Skills: 
+## Skills: 
 AWS Web Services Plus:
 
 * 1️⃣ MYSQL
@@ -24,7 +24,7 @@ AWS Web Services Plus:
 * 9️⃣ Dockers
 * 🔟 Kubernetes
 
-Certificates:
+## Certificates:
 
 * ☑️ Certified Solutions Architect--Associate
 
@@ -42,7 +42,7 @@ README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Feel free to reach out to me.
+## Feel free to reach out to me.
 
 * ☑️ Email: mosesnaworu@gmail.com
 
